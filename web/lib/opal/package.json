@@ -90,7 +90,7 @@
   },
   "dependencies": {
     "clsx": "^2.0.0",
-    "copy-to-clipboard": "^3.3.3",
+    "copy-to-clipboard": "^4.0.2",
     "tailwind-merge": "^2.0.0"
   },
   "devDependencies": {
