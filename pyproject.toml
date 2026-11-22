@@ -81,7 +81,7 @@ backend = [
     "Office365-REST-Python-Client==2.6.2",
     "oauthlib==4.0.1",
     # NOTE: This is frozen to avoid https://foss.heptapod.net/openpyxl/openpyxl/-/issues/2147
-    "openpyxl==3.0.10",
+    "openpyxl==3.1.5",
     "opensearch-py==3.2.0",
     # libpass is the maintained drop-in fork of passlib (same `passlib.*`
     # import namespace). passlib 1.7.4 is unmaintained and imports the stdlib
